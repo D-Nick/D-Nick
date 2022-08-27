@@ -5,6 +5,7 @@ Final Version2.0.pbix is a dashboard built in Power BI for a mock international 
 bc2-Copy2.ipynb are models built for a mock Hotel company to try and predict low and high season cancellations.
 
 
+
 Thanks!
 <!---
 D-Nick/D-Nick is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
