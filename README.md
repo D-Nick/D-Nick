@@ -1,6 +1,8 @@
 Hi! I'm Nick and I'm primarily interested in Python for Data Science. I'd also like to learn more JS for Data Visualization.
 You can view some of the projects I've worked on for my MSc in Data Science and Business Analytics.
-As well as some very old code when I first started programming using C and Java.
+
+app.py is a dashboard built in plotly and dash for Chess Statistics.
+
 Thanks!
 <!---
 D-Nick/D-Nick is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
