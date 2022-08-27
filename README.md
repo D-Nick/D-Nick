@@ -5,6 +5,7 @@ Final Version2.0.pbix is a dashboard built in Power BI for a mock international 
 
 bc2-Copy2.ipynb are models built for a mock Hotel company to try and predict low and high season cancellations.
 
+BC4 was to do forecasting for crypto prices.
 
 
 Thanks!
