@@ -1,6 +1,8 @@
 Hi! I'm Nick and I'm primarily interested in Python for Data Science. I'd also like to learn more JS for Data Visualization.
 You can view some of the projects I've worked on for my MSc in Data Science and Business Analytics.
 
+Final Version2.0.pbix is a dashboard built in Power BI for a mock international sales company.
+
 
 Thanks!
 <!---
